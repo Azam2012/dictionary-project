@@ -1,0 +1,14 @@
+.Meaning h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  font-size: bold;
+  color: #f0f8e4;
+  font-family: Cursive;
+}
+.Meaning .example {
+  font-size: 15px;
+  opacity: 0.7;
+  font-style: italic;
+  font-family: "Indie Flower script=latin rev=2";
+  margin-top: 20px;
+}

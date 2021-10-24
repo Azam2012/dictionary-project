@@ -1,6 +1,13 @@
+body {
+  background: #d3e4cd;
+}
+
 .Title {
+  font-family: "Signika Negative script=latin rev=2";
+  font-weight: bold;
   text-align: center;
   margin: 30px 0;
+  color: #351199;
 }
 .App-header {
   margin: 30px 0;
