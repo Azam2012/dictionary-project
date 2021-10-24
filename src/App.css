@@ -1,6 +1,10 @@
 body {
   background: #d3e4cd;
 }
+.App {
+  max-width: 960px;
+  margin: auto;
+}
 
 .Title {
   font-family: "Signika Negative script=latin rev=2";
